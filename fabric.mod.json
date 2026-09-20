@@ -1,0 +1,21 @@
+{
+	"schemaVersion": 1,
+	"id": "chatbubbles",
+	"version": "${version}",
+	"name": "Burbujas de Chat",
+	"description": "Muestra los mensajes del chat arriba de la cabeza de cada jugador, con traduccion automatica opcional y menu de configuracion. Diseñado por ItsBrauu. Mod solo de cliente: funciona en cualquier servidor.",
+	"authors": ["ItsBrauu"],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/chatbubbles/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": ["com.ejemplo.chatbubbles.ChatBubblesClient"]
+	},
+	"depends": {
+		"fabricloader": ">=0.15.0",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

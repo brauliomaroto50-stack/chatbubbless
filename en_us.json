@@ -1,0 +1,10 @@
+{
+	"category.chatbubbles": "Chat Bubbles",
+	"key.chatbubbles.toggle": "Toggle bubbles",
+	"key.chatbubbles.toggle_translate": "Toggle translation",
+	"key.chatbubbles.open_menu": "Open config menu",
+	"msg.chatbubbles.on": "§aChat bubbles enabled",
+	"msg.chatbubbles.off": "§cChat bubbles disabled",
+	"msg.chatbubbles.translate_on": "§aTranslation enabled",
+	"msg.chatbubbles.translate_off": "§cTranslation disabled"
+}

@@ -1,0 +1,10 @@
+{
+	"category.chatbubbles": "Burbujas de Chat",
+	"key.chatbubbles.toggle": "Prender/apagar burbujas",
+	"key.chatbubbles.toggle_translate": "Prender/apagar traducción",
+	"key.chatbubbles.open_menu": "Abrir menú de configuración",
+	"msg.chatbubbles.on": "§aBurbujas de chat activadas",
+	"msg.chatbubbles.off": "§cBurbujas de chat desactivadas",
+	"msg.chatbubbles.translate_on": "§aTraducción activada",
+	"msg.chatbubbles.translate_off": "§cTraducción desactivada"
+}
